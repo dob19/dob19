@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dob19 (David Ortiz)
-- 👀 I’m interested in ... learn to code, international commerce, an lots of things more.
+- 👀 I’m interested in ... learn to code, international commerce, and lots of things more.
 - 🌱 I’m currently learning ... C language and whatever I can find that helps me.
 - 💞️ I’m looking to collaborate on ... anything that is useful for learning.
 - 📫 How to reach me ... in this same site or facebook. 
